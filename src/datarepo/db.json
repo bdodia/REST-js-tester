@@ -1,0 +1,39 @@
+{
+  "tools": [
+    {
+      "id": 1,
+      "category": "Hammer",
+      "colour": "Black",
+      "size": "n/a",
+      "Description": "Claw hammer"
+    },
+    {
+      "id": 2,
+      "category": "Saw",
+      "colour": "n/a",
+      "size": "n/a",
+      "Description": "Hand Saw"
+    },
+    {
+      "id": 3,
+      "category": "Saw",
+      "colour": "n/a",
+      "size": "n/a",
+      "Description": "Hack saw"
+    },
+    {
+      "id": 4,
+      "category": "Screw driver",
+      "colour": "Yellow",
+      "size": "5mm",
+      "Description": "Set of 5 magnetised screw drivers"
+    },
+    {
+      "id": 12,
+      "category": "Chisel",
+      "colour": "Blue",
+      "size": "20mm x 300mm",
+      "Description": "Wood chisel set"
+    }
+  ]
+}
